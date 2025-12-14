@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC's/Humans/Evelyn.md",
+                "file": "NPC Notes/Tal Astero/Lance Beal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evelyn"
+              "title": "Lance Beal"
             }
           }
         ]
@@ -157,8 +157,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
             }
           },
           {
@@ -167,8 +167,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
@@ -197,46 +197,46 @@
   },
   "active": "e754579be3c800df",
   "lastOpenFiles": [
+    "Inbox/Call To Arms!.md",
+    "PrinceKid.md",
+    "NPC Notes/Royal Leadership/Sten Stera.md",
+    "NPC Notes/Royal Leadership/Henry Decker.md",
+    "NPC Notes/Royal Leadership/Hans Stera.md",
+    "NPC Notes/Tal Astero/Lance Beal.md",
+    "NPC Notes/Tal Astero/Governer Artem Pless.md",
+    "NPC Notes/Tal Astero",
+    "NPC Notes/Governor.md",
+    "References/Talents/Skirmisher.md",
+    "NPC Notes/Royal Leadership",
+    "NPC Notes",
+    "PC's/Humans/Evelyn.md",
+    "PC's/Mechs/Maya.md",
+    "PC's/Mechs/Dream.md",
+    "PC's/Mechs/Raiju (Mech).md",
+    "PC's/Humans/Veda Sulati.md",
+    "PC's/Humans/Cooper Ellys.md",
+    "PC's/Backstory/Cooper Ellys (Backstory).md",
+    "PC's/Backstory/Evelyn (Backstory).md",
+    "PC's/Backstory/Veda Sulati (Backstory).md",
+    "References/Gear/Variable Sword.md",
+    "References/Gear/Fold Knife.md",
+    "References/Core Bonus/Overpower Caliber.md",
+    "templates/Talent.md",
+    "templates/System.md",
+    "templates/Mech.md",
+    "templates/email.md",
+    "Untitled.base",
+    "Untitled.canvas",
     "docs/site-lib/search-index.json",
     "docs/site-lib/metadata.json",
-    "References/Gear/Variable Sword.md",
     "docs/site-lib/styles/theme.css",
     "docs/site-lib/styles/supported-plugins.css",
     "docs/site-lib/styles/snippets.css",
     "docs/site-lib/styles/other-plugins.css",
-    "docs/site-lib/styles/obsidian.css",
-    "docs/site-lib/styles/main-styles.css",
-    "docs/site-lib/styles/global-variable-styles.css",
-    "docs/site-lib/scripts/webpage.js",
-    "docs/site-lib/scripts/graph-wasm.wasm",
     "docs/site-lib/media/favicon.png",
     "docs/site-lib/media/6155340132a851f6089e.svg",
     "docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
-    "References/Talents/Skirmisher.md",
     "References/Talents/Hunter.md",
-    "References/Talents/Duelist.md",
-    "References/Talents/Combined Arms.md",
-    "References/Talents/Leader.md",
-    "References/Core Bonus/Overpower Caliber.md",
-    "References/Systems/Fade Cloak.md",
-    "References/Systems/Hunter Logic Suite.md",
-    "References/Systems/Singularity Motivator.md",
-    "References/Systems/Type-3 Projected Shield.md",
-    "PC's/Mechs/Raiju (Mech).md",
-    "PC's/Mechs/Dream.md",
-    "References/Gear/Fold Knife.md",
-    "PC's/Company Roster.md",
-    "PC's/NHP's/Raiju.md",
-    "PC's/Mechs/Maya.md",
-    "PC's/Humans/Cooper Ellys.md",
-    "PC's/Humans/Veda Sulati.md",
-    "Inbox/Call To Arms!.md",
-    "PC's/Humans/Evelyn.md",
-    "README.md",
-    "PC's/Backstory/Cooper Ellys (Backstory).md",
-    "PC's/Backstory/Evelyn (Backstory).md",
-    "PC's/Backstory/Veda Sulati (Backstory).md",
-    "Untitled.canvas",
     "data/icons/free_action.svg",
     "data/banners/lancer_info.svg",
     "data/banners/powered_by_Lancer-white-on-black-cover.svg",

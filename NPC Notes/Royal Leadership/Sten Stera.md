@@ -1,0 +1,1 @@
+The late king of Steralis, recently passed away unexpectedly
