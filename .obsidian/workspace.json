@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "94e4b01212c80c78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC Notes/Tal Astero/Regional commander someone.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Regional commander someone"
-            }
-          },
-          {
             "id": "4fb5b6004204fe54",
             "type": "leaf",
             "state": {
@@ -153,10 +139,69 @@
   "right": {
     "id": "4c7b31266b83571f",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "57b3613d91699add",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78616e31f4a24a4b",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_9b6959190809",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 6,
+                    "month": 6,
+                    "year": 5016
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 5,
+                    "month": 6,
+                    "year": 5016
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": false,
+                  "interpolateColors": false,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_09bbe88909e9",
+                "child": "ID_697b895babaa"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cb23fad8512a0b5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2904bf4153fa574a",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_9b6959190809",
+                "id": "ID_697b895babaa",
+                "parent": "ID_09bbe88909e9"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 317.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,67 +220,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "b62f7573e13bb252",
-    "type": "floating",
-    "children": [
-      {
-        "id": "812de8ac4f23f976",
-        "type": "window",
-        "children": [
-          {
-            "id": "cd83953b84496b80",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8ed9649c1bf2375a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "PC's/Mechs/Dream.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Dream"
-                }
-              },
-              {
-                "id": "bbcf11f0b551a895",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "PC's/Humans/Cooper Ellys.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Cooper Ellys"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2328,
-        "y": 95,
-        "width": 1160,
-        "height": 886,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "c9bdc8733744dcb8",
+  "active": "78616e31f4a24a4b",
   "lastOpenFiles": [
-    "NPC Notes/Tal Astero/Regional commander someone.md",
-    "NPC Notes/Tal Astero/Lance Beal.md",
+    "NPC Notes/Mechs/Stone Rhino.md",
     "References/Notes/2025-12-14.md",
+    "NPC Notes/Tal Astero/Regional commander someone.md",
+    "Untitled.base",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "NPC Notes/Tal Astero/Lance Beal.md",
     "NPC Notes/Backstory/Father Sulati.md",
     "NPC Notes/Tal Astero/Artria.md",
-    "NPC Notes/Mechs/Stone Rhino.md",
     "NPC Notes/Mechs/Spiral Dragon.md",
     "NPC Notes/Tal Astero/Gwen.md",
     "NPC Notes/Mechs/White Tiger.md",
@@ -259,7 +254,6 @@
     "Inbox/site-lib/styles/snippets.css",
     "Inbox/site-lib/styles/other-plugins.css",
     "Inbox/site-lib/styles/obsidian.css",
-    "Inbox/site-lib/styles/main-styles.css",
     "Inbox/site-lib/media/favicon.png",
     "Inbox/site-lib/media/6155340132a851f6089e.svg",
     "Inbox/site-lib/media/2308ab1944a6bfa5c5b8.svg",
@@ -268,12 +262,9 @@
     "References/Places/Eschaton.md",
     "PC's/Humans/Veda Sulati.md",
     "PC's/Backstory/Veda Sulati (Backstory).md",
-    "Evelyn.md",
-    "Untitled 1.canvas",
     "docs/site-lib/media/favicon.png",
     "docs/site-lib/media/6155340132a851f6089e.svg",
     "docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
-    "Untitled.canvas",
     "data/icons/free_action.svg",
     "data/banners/lancer_info.svg",
     "data/banners/powered_by_Lancer-white-on-black-cover.svg",
