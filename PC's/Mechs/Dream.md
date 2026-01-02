@@ -2,6 +2,8 @@
 pilot: "[[Cooper Ellys]]"
 manufacture: SSC
 chassis: Mourning Cloak
+tags:
+  - mech
 ---
 # Frame Traits
 ## Hunter

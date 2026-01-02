@@ -173,7 +173,7 @@
         "defaultLocation": ""
       },
       "current": {
-        "day": 5,
+        "day": 8,
         "month": 6,
         "year": 5016
       },
@@ -187,13 +187,69 @@
             "year": 5016
           },
           "id": "ID_6b2b8a59896b",
-          "note": null,
+          "note": "References/Notes/2025-12-14.md",
           "category": null,
           "sort": {
             "timestamp": 5e-324,
             "order": ""
           },
           "type": "Date"
+        },
+        {
+          "name": "Travel to factory town",
+          "description": null,
+          "date": {
+            "day": 6,
+            "month": 6,
+            "year": 5016
+          },
+          "id": "ID_4b1bc94b1939",
+          "note": "References/Notes/2025-12-14.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Receive assignment",
+          "description": null,
+          "date": {
+            "day": 5,
+            "month": 6,
+            "year": 5016
+          },
+          "id": "ID_d8fa3a4beac8",
+          "note": "References/Notes/2025-12-14 Government Sponsored eldritch horrors.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Basic patrols",
+          "description": null,
+          "date": {
+            "day": 6,
+            "month": 6,
+            "year": 5016
+          },
+          "id": "ID_5acb798b197b",
+          "note": "References/Notes/2025-12-14 Government Sponsored Eldritch Horrors.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range",
+          "end": {
+            "day": 8,
+            "month": 6,
+            "year": 5016
+          }
         }
       ],
       "categories": [],

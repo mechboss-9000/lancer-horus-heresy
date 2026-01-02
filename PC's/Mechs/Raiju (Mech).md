@@ -2,6 +2,8 @@
 pilot: "[[Veda Sulati]]"
 manufacture: HORUS
 chassis: Pegasus
+tags:
+  - mech
 ---
 # Frame Traits
 >[!frame-trait] ¿%:?EXTR!UDE GUN

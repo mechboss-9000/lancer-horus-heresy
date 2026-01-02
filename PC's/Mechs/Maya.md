@@ -2,6 +2,8 @@
 pilot: "[[Evelyn Garve]]"
 manufacture: HORUS
 chassis: Gorgon
+tags:
+  - mech
 ---
 # Frame Traits
 >[!frame-trait] Metastatic Paralysis
