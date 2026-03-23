@@ -2,7 +2,7 @@
 tags: pc
 age:
 callsign: Puff
-mech: "[[Prototype]]"
+mech: "[[Freddy]]"
 licensces: IPS-N Blackbeard 3
 status: alive
 ---
